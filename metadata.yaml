@@ -1,5 +1,5 @@
 _repo: Widger-s-Quotations-from-the-Project-Gutenberg-Editions-of-the-Works-of-Montaigne_3661
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -36,5 +36,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PQ'
 - !lcsh 'Quotations'
+- GITenberg
 title: Widger's Quotations from the Project Gutenberg Editions of the Works of Montaigne
 url: http://www.gutenberg.org/ebooks/3661
